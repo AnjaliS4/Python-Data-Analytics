@@ -1,0 +1,13 @@
+SaleID,Date,CustomerName,CustomerGender,ProductCategory,UnitsSold,UnitPrice
+1,2025-01-03,Anjali,Female,Electronics,1,499.99
+2,2025-01-04,Ravi,Male,Clothing,2,29.99
+3,2025-01-05,Sita,Female,Books,3,12.50
+4,2025-01-07,Anjali,Female,Electronics,1,199.99
+5,2025-01-08,Prakash,Male,Groceries,10,2.50
+6,2025-01-09,Anjali,Female,Clothing,1,49.99
+7,2025-01-10,Rahul,Male,Books,2,15.00
+8,2025-01-11,Maya,Female,Electronics,1,299.99
+9,2025-01-12,Sushil,Male,Groceries,5,3.00
+10,2025-01-13,Nisha,Female,Clothing,3,19.99
+11,2025-01-14,Arjun,Male,Electronics,1,399.99
+12,2025-01-15,Anjali,Female,Books,2,9.99
